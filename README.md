@@ -1,4 +1,4 @@
 # LAMBORGHINI_INSPIRED_WEBSITE
  MADE WITH HTML,CSS AND JS
-![pic1]("PIC1.png")
-![pic1]("PIC2.png")
+![pic1](PIC1.png)
+![pic1](PIC2.png)
